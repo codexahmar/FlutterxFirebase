@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148419100444",
+    "project_id": "authpractice-f8032",
+    "storage_bucket": "authpractice-f8032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148419100444:android:24d148c97c435899ffc4d9",
+        "android_client_info": {
+          "package_name": "com.example.auth_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpuopIA_fSfyaO7Q2vg0H56yPnLFcDs5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
